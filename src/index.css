@@ -1,0 +1,35 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1.main_heading {
+  color: #fff;
+  font-weight: bolder;
+  font-size: 43px;
+  margin: 15px 0;
+  text-align: center;
+}
+.listing_part ul {
+  padding: 0;
+  list-style: none;
+  height: 500px;
+  overflow: auto;
+}
+.listing_part ul li {
+  padding: 5px 14px;
+  background-color: #0ff49f;
+  margin-bottom: 10px;
+  color: #000;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.ant-input{font-size: 15px;
+font-weight: bolder;
+color: #000;
+cursor: pointer;}
+body {
+  background-color: #9266ff;
+}
