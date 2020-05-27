@@ -1,0 +1,15 @@
+{
+  "main.css": "/songlist/static/css/main.8655e75e.chunk.css",
+  "main.js": "/songlist/static/js/main.b56036cd.chunk.js",
+  "main.js.map": "/songlist/static/js/main.b56036cd.chunk.js.map",
+  "runtime~main.js": "/songlist/static/js/runtime~main.0b96cd11.js",
+  "runtime~main.js.map": "/songlist/static/js/runtime~main.0b96cd11.js.map",
+  "static/css/2.e4623dd3.chunk.css": "/songlist/static/css/2.e4623dd3.chunk.css",
+  "static/js/2.96b35849.chunk.js": "/songlist/static/js/2.96b35849.chunk.js",
+  "static/js/2.96b35849.chunk.js.map": "/songlist/static/js/2.96b35849.chunk.js.map",
+  "index.html": "/songlist/index.html",
+  "precache-manifest.dac2462a9745b5054d8c7f01b2b31ea9.js": "/songlist/precache-manifest.dac2462a9745b5054d8c7f01b2b31ea9.js",
+  "service-worker.js": "/songlist/service-worker.js",
+  "static/css/2.e4623dd3.chunk.css.map": "/songlist/static/css/2.e4623dd3.chunk.css.map",
+  "static/css/main.8655e75e.chunk.css.map": "/songlist/static/css/main.8655e75e.chunk.css.map"
+}
