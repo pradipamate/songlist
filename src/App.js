@@ -41,7 +41,7 @@ class App extends Component {
                      <Row>
                        <Col span={14} offset={5}>
                             <h1 className="main_heading">iTunes List</h1>
-                            <Input placeholder="Enter Song Name"  name="song_name" onKeyUp={this.onchangehandler}/> 
+                            <Input placeholder="Enter Song Name"  name="song_name" onChange={this.onchangehandler}/> 
                         </Col>
                         <Col span={14} offset={5} className="listing_part">
                             <ul>
